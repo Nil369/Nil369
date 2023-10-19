@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/akash halder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash halder" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61552058360601&ref=xav_ig_profile_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash halder" height="30" width="40" /></a>
 <a href="https://instagram.com/akash_halder8043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_halder8043" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akash halder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash halder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCci03NU9lxACyBCsXj1CLvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash halder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
