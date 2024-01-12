@@ -4,7 +4,7 @@
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nil369&label=Profile%20views&color=0e75b6&style=flat" alt="nil369" /> </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Akash+Halder;+A+Passionate+Programmer+&+Developer+from+India" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Akash+Halder;" />
 </h1>
 
 
