@@ -20,8 +20,7 @@
 
  👨‍💻 All of my projects are available at [https://github.com/Nil369?tab=repositories](https://github.com/Nil369?tab=repositories)
 
- 📫 How to reach me [Gmail](halderakash872@gmail.com)
-    
+📫 How to reach me **📧halderakash872@gmail.com**
 
  ⚡ Fun fact **I am funny 😅**
 
