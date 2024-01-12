@@ -20,8 +20,8 @@
 
  👨‍💻 All of my projects are available at [https://github.com/Nil369?tab=repositories](https://github.com/Nil369?tab=repositories)
 
- 📫 How to reach me <a href="halderakash872@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>**
+ 📫 How to reach me [Gmail](halderakash872@gmail.com)
+    
 
  ⚡ Fun fact **I am funny 😅**
 
