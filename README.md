@@ -13,20 +13,22 @@
 
 
 
-<p align="center">
-- 🔭 I’m currently working on **My Dream Project**</p>
+<div align="center">
+🔭 I’m currently working on <b>My Dream Project</b>
 
-<p align="center">- 🌱 I’m currently learning **AI & ML**</p>
+🌱 I’m currently learning **AI & ML**
 
-<p align="center">- 👨‍💻 All of my projects are available at [https://github.com/Nil369?tab=repositories](https://github.com/Nil369?tab=repositories)</p>
+ 👨‍💻 All of my projects are available at [https://github.com/Nil369?tab=repositories](https://github.com/Nil369?tab=repositories)
 
-<p align="center">- 📫 How to reach me <a href="mailto:halderakash872@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>**</p>
+ 📫 How to reach me <a href="mailto:halderakash872@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>**
 
-<p align="center">- ⚡ Fun fact **I am funny 😅**</p>
+ ⚡ Fun fact **I am funny 😅**
 
+</div>
 
-<h3 align="center">Connect with me:</h3>
+---
+<h1 align="center">Connect with me:</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/akash-halder-nil/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash halder" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61552058360601&ref=xav_ig_profile_web" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash halder" height="30" width="40" /></a>
