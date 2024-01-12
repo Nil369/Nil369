@@ -23,8 +23,8 @@
 
 - ⚡ Fun fact **I am funny 😅**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/akash-halder-nil/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash halder" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61552058360601&ref=xav_ig_profile_web" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash halder" height="30" width="40" /></a>
 <a href="https://www.instagram.com/akash_halder8043/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_halder8043" height="30" width="40" /></a>
@@ -39,7 +39,17 @@
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
   </p>
+<hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nil369&show_icons=true&locale=en&layout=compact" alt="nil369" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nil369&show_icons=true&locale=en" alt="nil369" /></p>
