@@ -2,26 +2,29 @@
 
 
 <hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nil369&label=Profile%20views&color=0e75b6&style=flat" alt="nil369" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Akash+Halder;+A+Passionate+Programmer+&+Developer+from+India" />
 </h1>
 
 
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="center" alt="coding"  width = "1500" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nil369&label=Profile%20views&color=0e75b6&style=flat" alt="nil369" /> </p>
 
-- 🔭 I’m currently working on **My Dream Project**
+<p align="center">
+- 🔭 I’m currently working on **My Dream Project**</p>
 
-- 🌱 I’m currently learning **AI & ML**
+<p align="center">- 🌱 I’m currently learning **AI & ML**</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nil369?tab=repositories](https://github.com/Nil369?tab=repositories)
+<p align="center">- 👨‍💻 All of my projects are available at [https://github.com/Nil369?tab=repositories](https://github.com/Nil369?tab=repositories)</p>
 
-- 📫 How to reach me **halderakash872@gmail.com**
+<p align="center">- 📫 How to reach me <a href="mailto:halderakash872@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>**</p>
 
-- ⚡ Fun fact **I am funny 😅**
+<p align="center">- ⚡ Fun fact **I am funny 😅**</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
