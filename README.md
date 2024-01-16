@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Akash+Halder;" />
 </h1>
 
-
+ [![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nil369&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Nil369/)
 
 <img align="center" alt="coding" width="900" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
@@ -48,7 +48,6 @@
 
 <hr/>
 
- [![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nil369&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Nil369/)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nil369&show_icons=true&locale=en&layout=compact" alt="nil369" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nil369&show_icons=true&locale=en" alt="nil369" /></p>
