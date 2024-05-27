@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,bootstrap,mui,html,css,figma,pug,tailwind,nextjs,vercel" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,jquery,typescript,java,mysql,php,flask,django,vscode,eclipse,androidstudio,ps,pr,ae,blender,arduino,opencv,qt,sqlite,sklearn,vite,wordpress,redux,docker,dotnet,netlify,heroku,firebase,appwrite,prisma,md,postgres,postman,aws,gcp,git,github,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,jquery,typescript,java,mysql,flask,fastapi,django,pycharm,vscode,idea,eclipse,androidstudio,ps,pr,ae,blender,arduino,opencv,qt,php,sqlite,sklearn,vite,wordpress,redux,docker,dotnet,netlify,heroku,firebase,appwrite,prisma,md,postgres,postman,aws,gcp,git,github,discord" /><br>
 </div>
 
 <br/>
