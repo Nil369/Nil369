@@ -33,13 +33,14 @@
 <a href="https://www.linkedin.com/in/akash-halder-nil/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash halder" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61552058360601&ref=xav_ig_profile_web" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash halder" height="30" width="40" /></a>
 <a href="https://www.instagram.com/akash_halder8043/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_halder8043" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/nil369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aksh" height="30" width="40" /></a>
 </p>
 <hr>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,bootstrap,mui,pug,html,css,sass,figma,tailwind,nextjs,vercel,c,cpp,cs,python,javascript,typescript,jquery,vue,angular,java,mysql,flask,fastapi,django,pycharm,vscode,visualstudio,idea,eclipse,androidstudio,windows,powershell,linux,sublime,ps,pr,ae,blender,arduino,opencv,qt,php,sqlite,sklearn,wordpress,redux,docker,dotnet,netlify,heroku,appwrite,prisma,supabase,md,postgres,postman,aws,gcp,stackoverflow,nginx,git,github,discordt" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,bootstrap,mui,pug,html,css,sass,figma,tailwind,nextjs,vercel,c,cpp,cs,python,javascript,typescript,jquery,vue,angular,java,mysql,flask,fastapi,django,pycharm,vscode,visualstudio,idea,eclipse,androidstudio,windows,powershell,linux,sublime,ps,pr,ae,blender,arduino,opencv,qt,php,sqlite,sklearn,wordpress,redux,docker,dotnet,netlify,heroku,appwrite,prisma,supabase,md,postgres,postman,aws,gcp,stackoverflow,nginx,git,github,discord" /><br>
 
     
 </div>
