@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,bootstrap,mui,pug,html,css,sass,figma,tailwind,nextjs,vercel,c,cpp,cs,python,javascript,typescript,jquery,vue,angular,java,mysql,flask,fastapi,django,pycharm,vscode,visualstudio,idea,eclipse,androidstudio,windows,powershell,linux,apple,debian,ubuntu,kali,sublime,ps,pr,ae,blender,arduino,opencv,qt,php,sqlite,sklearn,wordpress,redux,docker,dotnet,netlify,heroku,wordpress,appwrite,prisma,supabase,md,postgres,postman,aws,gcp,stackoverflow,nginx,git,github,discord," /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,bootstrap,mui,pug,html,css,sass,codepen,figma,tailwind,windicss,nextjs,vercel,c,cpp,cs,python,javascript,typescript,jquery,vue,angular,java,mysql,flask,fastapi,django,pycharm,vscode,visualstudio,idea,eclipse,androidstudio,windows,powershell,bash,vim,apple,linux,debian,ubuntu,kali,sublime,ps,pr,ae,blender,arduino,opencv,qt,php,sqlite,sklearn,wordpress,redux,docker,dotnet,netlify,heroku,wordpress,appwrite,prisma,supabase,md,postgres,postman,aws,gcp,stackoverflow,nginx,git,github,discord" /><br>
 
     
 </div>
