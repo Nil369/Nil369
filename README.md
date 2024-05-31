@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,remix,bootstrap,mui,pug,html,css,sass,figma,tailwind,windicss,styledcomponents,codepen,nextjs,vercel,c,cpp,cs,python,javascript,typescript,jquery,vue,angular,regex,java,mysql,flask,fastapi,django,pycharm,vscode,visualstudio,idea,eclipse,androidstudio,replit,windows,powershell,bash,vim,apple,linux,debian,ubuntu,kali,sublime,ps,pr,ae,blender,arduino,opencv,qt,selenium,php,sqlite,sklearn,redux,docker,dotnet,netlify,heroku,wordpress,appwrite,prisma,supabase,md,postgres,postman,aws,gcp,stackoverflow,nginx,notion,git,github,discord,discordjs" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,remix,bootstrap,mui,pug,html,htmx,css,sass,figma,tailwind,windicss,styledcomponents,codepen,nextjs,vercel,c,cpp,cs,python,javascript,typescript,jquery,vue,angular,regex,java,mysql,flask,fastapi,django,pycharm,vscode,visualstudio,idea,eclipse,androidstudio,replit,windows,powershell,bash,vim,apple,linux,debian,ubuntu,kali,sublime,ps,pr,ae,blender,arduino,opencv,qt,selenium,php,sqlite,sklearn,redux,docker,dotnet,netlify,heroku,wordpress,appwrite,firebase,prisma,supabase,md,postgres,postman,aws,gcp,cloudflare,stackoverflow,nginx,notion,git,github,discord,discordjs,dart,flutter" /><br>
 
     
 </div>
