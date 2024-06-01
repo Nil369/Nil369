@@ -9,7 +9,8 @@
 
  [![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nil369&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Nil369/)
 
-<img align="center" alt="coding" width="900" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<img align="center" alt="coding" width="1000" src="https://i.redd.it/n8agw6z2smyb1.gif">
+
 
 
 
