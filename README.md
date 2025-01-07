@@ -4,7 +4,7 @@
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nil369&label=Profile%20views&color=0e75b6&style=flat" alt="nil369" /> </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Akash+Halder;+A+Full+Stack+Web+Developer+🧑🏻‍💻" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Akash+Halder;+A+Full+Stack+Web+Developer+🧑🏻‍💻;+A+Data+Analyst📊;+A+Data+Scientiest📈;+&+an+AIML+Engineer;" />
 </h1>
 
  [![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nil369&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Nil369/)
@@ -46,29 +46,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,remix,bootstrap,mui,pug,html,htmx,css,sass,figma,tailwind,windicss,styledcomponents,codepen,nextjs,vercel,c,cpp,cs,python,javascript,typescript,jquery,vue,angular,regex,java,mysql,flask,fastapi,django,pycharm,vscode,visualstudio,idea,eclipse,androidstudio,replit,windows,powershell,bash,vim,apple,linux,debian,ubuntu,kali,sublime,ps,pr,ae,blender,arduino,opencv,qt,selenium,php,sqlite,sklearn,redux,docker,dotnet,netlify,heroku,wordpress,appwrite,firebase,prisma,supabase,md,postgres,postman,aws,gcp,cloudflare,stackoverflow,nginx,notion,git,github,discord,discordjs,dart,flutter" /><br>
 
-    
 </div>
 
-<br/>
 
-
-
-<hr/>
-
-<h2 align="left">🔥 My Stats:</h2>
-
-###
-
-<div align="left">
-
- <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nil369&show_icons=true&locale=en&layout=compact" alt="nil369" />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nil369&show_icons=true&locale=en" alt="nil369" /></p>
- </p>
-</div>
-
-###
 <img src= "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=82&section=footer" width="2500px"/>
 
 
